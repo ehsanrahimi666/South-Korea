@@ -1,0 +1,134 @@
+File_Name,model,AUC_mean,BOYCE_mean,IMAE_mean
+"Catarhoe obscura Butler, 1878",max,0.700144444,0.921268062,0.561219315
+"Telorta divergens Butler, 1879",max,0.70054,0.981465365,0.606862383
+"Anabelcia Behounek & Kononenko, 2012",max,0.700660714,0.942183133,0.588570951
+"Bizia Walker, 1860",max,0.70145,0.988292842,0.567242939
+"Anuga multiplicans Walker, 1858",max,0.701903571,0.941752163,0.596072229
+Cranionycta oda,max,0.702537363,0.858427001,0.556950584
+"Hydrelia Hübner, 1825",max,0.7026,0.993265428,0.500398817
+"Parapercnia giraffata (Guenee, 1857)",max,0.703877778,0.806438947,0.590355213
+"Scopula modicaria Leech, 1897",max,0.705066667,0.97850445,0.573433541
+"Blasticorhinus ussuriensis Bremer, 1864",max,0.70515,0.98035127,0.59589346
+"Eupithecia quadripunctata Warren, 1888",max,0.705883333,0.989268552,0.589148563
+Callabraxas fabiolaria,max,0.706575758,0.918505458,0.581965682
+"Macaria liturata (Clerck, 1759)",max,0.707088889,0.807027126,0.572291929
+"Ercheia umbrosa Butler, 1881",max,0.707142857,0.971942388,0.582670867
+"Trachea punkikonis Matsumura, 1929",max,0.70745,0.905462985,0.5567182
+"Cabera griseolimbata Oberthür, 1879",max,0.709471667,0.849837991,0.585440895
+"Chasminodes albonitens Bremer, 1861",max,0.709777778,0.829935494,0.557208655
+Epholca arenosa,max,0.710016484,0.865126342,0.597198352
+Belosticta cinerea,max,0.7109,0.995272145,0.512332796
+Cranionycta jankowskii,max,0.711903571,0.961201654,0.638874207
+"Photoscotosia atrostrigata Bremer, 1864",max,0.712835714,0.904234646,0.564374077
+"Mocis annetta (Butler, 1878)",max,0.712889286,0.951945321,0.578762053
+"Alcis extinctaria Eversmann, 1851",max,0.71315,0.981801234,0.565682283
+"Spirama helicina Hübner, 1827",max,0.713358182,0.899380591,0.56523488
+"Asthena nymphaeata Staudinger, 1897",max,0.714548718,0.908335178,0.552210089
+"Amphipyra tripartita Butler, 1878",max,0.715971324,0.810619325,0.56165913
+"Stigmatophora micans Bremer & Grey, 1852",max,0.71606,0.980008716,0.583899867
+"Meganoton scribae Aust., 1911",max,0.716816667,0.883557344,0.56508556
+"Eupithecia spadix Inoue, 1955",max,0.717,0.991188716,0.60960854
+"Erannis golda Djakonov, 1929",max,0.71715,0.947159025,0.569267538
+"Ligdia japonaria Leech, 1897",max,0.717519048,0.978977754,0.622329699
+"Plusiodonta casta Butler, 1878",max,0.718133333,0.995491623,0.642540768
+"Aventiola pusilla Butler, 1879",max,0.721985714,0.964189713,0.55566818
+"Agriopis dira (Butler, 1878)",max,0.722133333,0.976828373,0.584922298
+"Heterarmia dissimilis Staudinger, 1897",max,0.72286,0.967061337,0.576437474
+"Cidariplura gladiata Butler, 1879",max,0.723625,0.871961257,0.568912052
+"Colotois pennaria (Linnaeus, 1761)",max,0.72366,0.99111634,0.676386917
+"Zanclidia testacea Butler, 1881",max,0.726433333,0.993071302,0.58206836
+"Petelia rivulosa Butler, 1881",max,0.726486667,0.917218476,0.617491724
+"Maxates Moore, 1887",max,0.726833333,0.993172495,0.607976759
+"Kentrochrysalis sieversi Alpheraky, 1897",max,0.727929825,0.801073151,0.606748564
+"Ninodes albarius Beljaev & Park, 1998",max,0.72835,0.992310764,0.568396425
+"Aspledon Boisduval, 1875",max,0.72844,0.918981194,0.637526644
+"Euplexia lucipara (Linnaeus, 1758)",max,0.730651515,0.908167722,0.584034113
+"Xestia vidua Staudinger, 1892",max,0.730686667,0.96852745,0.573898599
+Mocis ancilla,max,0.73135,0.985425068,0.612020123
+"Mormo muscivirens Butler, 1878",max,0.73153,0.994172817,0.676440677
+"Melanchra persicariae (Linnaeus, 1761)",max,0.7316,0.993260502,0.663257598
+"Isturgia Hübner, 1823",max,0.73161,0.986469164,0.651157514
+"Chariaspilates formosaria (Eversmann, 1837)",max,0.731683333,0.992092092,0.54032354
+"Athetis cinerascens Motschulsky, 1860",max,0.732575758,0.92291548,0.600506891
+"Cosmia restituta Walker, 1856",max,0.73515,0.980939983,0.603218481
+"Eupithecia subbreviata Staudinger, 1897",max,0.7352,0.994005517,0.51741013
+"Cucullia maculosa Staudinger, 1888",max,0.7354,0.965029539,0.624004274
+"Proteostrenia Warren, 1895",max,0.7358,0.938549154,0.618090402
+"Rhodinia fugax Butler, 1877",max,0.7367,0.964876243,0.584224864
+"Larerannis orthogrammaria Wehrli, 1927",max,0.7368,0.994902378,0.663322554
+"Siccia Walker, 1854",max,0.7375,0.997829022,0.498771503
+"Antivaleria viridimacula Graeser, 1888",max,0.738006667,0.966234277,0.570988992
+Lophoruza pulcherrima,max,0.739114286,0.943404307,0.614680268
+"Pingasa aigneri Prout, 1930",max,0.740137778,0.942049761,0.643463198
+"Asthena anseraria (Herrich-Schäffer, 1855)",max,0.74132,0.983198663,0.63821469
+"Rhynchobapta cervinaria Moore, 1888",max,0.74671,0.988322476,0.633795261
+"Colocasia mus Oberthür, 1884",max,0.746985714,0.975293355,0.562567226
+"Sphinx ligustri Linnaeus, 1758",max,0.748557143,0.938480161,0.589780158
+"Sophta Walker, 1862",max,0.749033333,0.994662863,0.579206273
+"Pseudepione magnaria Wileman, 1911",max,0.75037,0.990111672,0.646049929
+Diomea cremata,max,0.7514,0.992300627,0.619489364
+"Marumba spectabilis Butler, 1875",max,0.7517,0.986891768,0.648156979
+"Planociampa modesta Butler, 1878",max,0.7522,0.996376833,0.635424643
+"Diarsia ruficauda Warren, 1910",max,0.75221,0.989603868,0.653736431
+"Pachista Prout, 1912",max,0.752232143,0.953804206,0.59804833
+"Ourapteryx Leach, 1814",max,0.752868182,0.91764531,0.640660934
+"Triphaenopsis jezoensis Sugi, 1962",max,0.753,0.985252049,0.613479149
+"Idaea trisetata Prout, 1922",max,0.75347,0.954330757,0.600250056
+"Euromoia subpulchra Alphéraky, 1897",max,0.75391,0.976300516,0.649442293
+"Carige cruciplaga Walker, 1861",max,0.754380952,0.963458394,0.561125118
+"Scopula pudicaria Motschulsky, 1866",max,0.75586,0.986619096,0.635607244
+"Hydrillodes Guenée, 1854",max,0.757986667,0.896113866,0.622844701
+"Protomiselia bilinea Hampson, 1905",max,0.760177778,0.911148086,0.618685621
+"Erebomorpha fulguraria Walker, 1860",max,0.762789286,0.929091001,0.671764183
+"Neustrotia rectilineata Ueda, 1987",max,0.76584,0.96486559,0.643963679
+"Bupalus vestalis Staudinger, 1897",max,0.766266667,0.993613393,0.691641109
+"Cepphis advenaria (Hübner, 1790)",max,0.7663,0.97920959,0.572858008
+"Hydrelia nisaria Christoph, 1881",max,0.768333333,0.995635447,0.716364467
+"Synegia limitatoides Inoue, 1982",max,0.768661111,0.956695554,0.618303548
+"Sugia idiostygia Sugi, 1958",max,0.76895,0.988340557,0.662456011
+"Selenia tetralunaria (Hufnagel, 1767)",max,0.769332143,0.908519618,0.627774063
+Leucapamea askoldis,max,0.77089,0.986937613,0.621547075
+"Melanthia procellata (Denis & Schiffermüller, 1775)",max,0.772601818,0.912538016,0.654165594
+"Geometra papilionaria (Linnaeus, 1758)",max,0.77315,0.984740427,0.683835098
+"Wilemania nitobei Nitobe, 1907",max,0.774073333,0.9809696,0.632907353
+"Caligula japonica Moore, 1862",max,0.774139286,0.978397736,0.691120678
+"Pachyodes Guenée, 1857",max,0.77425,0.982723112,0.645316371
+"Aglia tau (Linnaeus, 1758)",max,0.7744,0.996961271,0.638401791
+"Diaprepesilla flavomarginaria Bremer, 1864",max,0.777833333,0.993414338,0.58727271
+"Odontopera arida Butler, 1878",max,0.777920261,0.827350461,0.632347366
+Pangrapta disruptalis,max,0.778033333,0.973609669,0.644077572
+"Langia zenzeroides Moore, 1872",max,0.77835,0.995364654,0.730244832
+"Baptria tibiale (Esper, 1791)",max,0.7784,0.98904409,0.584980427
+"Nothomiza aureolaria Inoue, 1982",max,0.779433333,0.948559564,0.645958403
+"Esakiopteryx volitans Butler, 1878",max,0.782,0.995594117,0.696898799
+"Ectephrina semilutata Lederer, 1853",max,0.78277,0.986893046,0.651407151
+"Rheumaptera hecate Butler, 1878",max,0.783393333,0.989621464,0.649323838
+"Chelonomorpha japana Motschulsky, 1860",max,0.78354,0.965324077,0.682488698
+"Xanthia togata (Esper, 1788)",max,0.7838,0.981528774,0.619577035
+"Belosticta Butler, 1879",max,0.786333333,0.988497621,0.647991758
+"Maliattha arefacta Butler, 1879",max,0.79004,0.973548734,0.601488508
+"Amphitrogia amphidecta Butler, 1879",max,0.790446667,0.987676564,0.648237718
+"Acronicta adaucta Warren, 1910",max,0.79275,0.911824769,0.686673472
+"Diomea discisigna Sugi, 1963",max,0.793773333,0.990425046,0.694769213
+"Laothoe amurensis (Staudinger, 1879)",max,0.80085,0.971438329,0.694713819
+"Epirrhoe supergressa Butler, 1878",max,0.804322222,0.889239253,0.690557023
+"Lophomilia polybapta Butler, 1879",max,0.804966667,0.99381913,0.656362617
+"Exangerona prattiaria Leech, 1891",max,0.80616,0.990272992,0.818993167
+"Aemene Walker, 1854",max,0.807566667,0.99096683,0.653198649
+Corgatha nitens,max,0.8091,0.990155043,0.6430942
+"Marumba jankowskii Oberthür, 1881",max,0.809483333,0.99590514,0.624358212
+"Apamea hampsoni Sugi, 1963",max,0.8117,0.987167358,0.599152499
+Saturnia japonica,max,0.81435,0.997699538,0.754780061
+"Xestia sincera (Herrich-Schäffer, 1851)",max,0.815333333,0.992044637,0.733023621
+"Cotta incongruaria Walker, 1860",max,0.8186,0.992660025,0.597343099
+"Callopistria placodoides Guenée, 1852",max,0.8247,0.991211506,0.630252115
+Orthocabera sericea,max,0.832947619,0.961918446,0.704238863
+"Lobogonodes multistriata Butler, 1889",max,0.836066667,0.990593185,0.610592233
+"Smerinthus caecus Menetries, 1857",max,0.839733333,0.98708841,0.70940272
+"Cosmia cara Butler, 1881",max,0.8409,0.991906714,0.567286207
+"Prolophota trigonifera Hampson, 1896",max,0.8427,0.996649195,0.574597012
+"Acherontia styx Westwood, 1844",max,0.85803,0.990130691,0.751336249
+"Theretra nessus Drury, 1773",max,0.88165,0.993183216,0.747813313
+"Iotaphora admirabilis Oberthür, 1883",max,0.902383333,0.967429405,0.817105112
+"Orthonama obstipata (Fabricius, 1794)",max,0.9366,0.996299441,0.786815941
+"Prometopus flavicollis Leech, 1889",max,0.9553,0.991170128,0.778101794

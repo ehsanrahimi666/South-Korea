@@ -1,0 +1,20 @@
+File_Name,AUC_mean,BOYCE_mean,IMAE_mean
+"Platycheirus immaculatus Ôhara, 1980",0.8938,0.994521818,0.825866672
+"Rhingia laevigata Loew, 1858",0.849666667,0.989799995,0.810887119
+"Ferdinandea cuprea (Scopoli, 1763)",0.813733333,0.987476773,0.683990062
+"Chrysotoxum shirakii Matsumura, 1931",0.810580952,0.965360099,0.646254146
+"Callicera aenea (Fabricius, 1777)",0.80428,0.977230271,0.653174295
+"Syrphus vitripennis Meigen, 1822",0.8002,0.987839967,0.751594558
+Parasyrphus annulatus Zetterstedtt,0.799685714,0.963824572,0.654391077
+"Ferdinandea nigrifrons (Egger, 1860)",0.763946667,0.987572802,0.602562706
+"Sphaerophoria rueppellii Wiedemann, 1830",0.758283333,0.988964378,0.586480734
+"Chrysotoxum sapporense Matsumura, 1916",0.75752381,0.97754416,0.631418022
+"Xanthogramma coreanum Shiraki, 1930",0.75641,0.986852198,0.695017039
+"Xylota frontalis (Shiraki & Edashige, 1953)",0.746401053,0.841767343,0.579614018
+"Metasyrphus luniger (Meigen, 1822)",0.732016667,0.991356428,0.49675994
+"Sphegina clunipes (Fallén, 1816)",0.7262,0.975812225,0.632183521
+"Asarkina porcina (Coquillett, 1898)",0.722713889,0.959009826,0.58412946
+"Brachypalpus nipponicus Shiraki, 1952",0.70772,0.987898455,0.540293067
+"Spilomyia suzukii Matsumura, 1916",0.70608,0.973158247,0.572539785
+Eristalinus viridis Coquillett,0.706056316,0.853100915,0.536783628
+"Temnostoma bombylans (Fabricius, 1805)",0.704633333,0.923329222,0.583021526
